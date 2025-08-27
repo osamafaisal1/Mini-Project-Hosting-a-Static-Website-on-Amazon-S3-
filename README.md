@@ -17,3 +17,5 @@ Here’s how I did it step by step:
 👉 Next, I’ll be exploring IAM roles and permissions to securely manage access to AWS resources.
 
 hashtag#AWS hashtag#S3 hashtag#StaticWebsite hashtag#CloudComputing hashtag#LearningInPublic hashtag#DevOps hashtag#OpenToWork
+
+https://www.linkedin.com/posts/osama-faisal-922373149_aws-s3-staticwebsite-activity-7366546398525263872-eCYM?utm_source=share&utm_medium=member_desktop&rcm=ACoAACPTxGoB2r6kmmhk0hVfm0-T_Be7Q8uFaiM
